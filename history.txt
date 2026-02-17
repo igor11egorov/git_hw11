@@ -1,0 +1,16 @@
+ 1003  ls -la
+ 1004  git checkout -b feature
+ 1005  touch README.md
+ 1006  ls -la
+ 1007  nano .gitignore
+ 1008  git status
+ 1009  git add .
+ 1010  git status
+ 1011  git commit -m "my commit"
+ 1012  git log --oneline
+ 1013  git commit --amend
+ 1014  git commit
+ 1015  git log --oneline
+ 1016  git switch main
+ 1017  git branch
+ 1018  git merge feature
